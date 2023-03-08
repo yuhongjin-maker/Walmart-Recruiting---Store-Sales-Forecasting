@@ -5,6 +5,7 @@
  
  
 ## Introduction
+Modeling retail data based on the historical sales data to predict stores sales, it is a very important for WalMart's strategic decisions. And accurate data ensures that stock replenishment is at par with future demand.
 
 ## Methodogy
 
