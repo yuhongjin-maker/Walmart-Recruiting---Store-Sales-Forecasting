@@ -40,6 +40,9 @@ IsHoliday - whether the week is a special holiday week
 ## Methodogy
 
 ### EDA
+### Feature Enginerring
+### Visualizing Correlations
+### Encoding Store Column
 
 
 ## Results
