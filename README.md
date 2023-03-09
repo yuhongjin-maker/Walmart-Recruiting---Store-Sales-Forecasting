@@ -39,5 +39,7 @@ IsHoliday - whether the week is a special holiday week
 
 ## Methodogy
 
+### EDA
+
 
 ## Results
