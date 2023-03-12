@@ -5,7 +5,7 @@
  
  
 ## Introduction
-Modeling retail data based on historical sales data to predict store sales is very important for Walmart's strategic decision-making process. Accurate data ensures that stock replenishment is in line with future demand, which can solve issues related to marketing campaigns. Forecasting is often used to adjust ads and marketing campaigns, and it can influence the number of sales.
+Modeling retail data based on historical sales data to predict store sales is very important for Walmart's strategic decision-making process. Accurate data ensures that stock replenishment is in line with future demand, which can help retaillers improve customer staisfaction. Forecasting is often used to adjust ads and marketing campaigns, and it can influence the number of sales.
 
 ### stores.csv
 
@@ -13,16 +13,17 @@ This file contains anonymized information about the 45 stores, indicating the ty
 
 ### train.csv
 
-This is the historical training data, which covers to 2010-02-05 to 2012-11-01. Within this file you will find the following fields:
+This is the historical training data, which covers to 2010-02-05 to 2012-11-01.
 
 Store - the store number
 Dept - the department number
 Date - the week
 Weekly_Sales -  sales for the given department in the given store
 IsHoliday - whether the week is a special holiday week
-test.csv
 
-This file is identical to train.csv, except we have withheld the weekly sales. You must predict the sales for each triplet of store, department, and date in this file.
+### test.csv
+
+The same as the train.csv except IsHoliday Column
 
 ### features.csv
 
@@ -39,7 +40,6 @@ IsHoliday - whether the week is a special holiday week
 
 ### Performance metric
 <img width="365" alt="Screen Shot 2023-03-12 at 7 17 28 PM" src="https://user-images.githubusercontent.com/59128675/224580051-ffe8ea20-a621-4e3e-a5fd-d5fa921a37f9.png">
-
 
 ## Methodogy
 
@@ -78,4 +78,4 @@ According to the EDA and Coorelation study, dropped the columns with relationshi
 
 ## Results
 
-After comparing those modies, I could conclud that the best performer is Gradient Boosting with tuned Hyperparameters.
+After comparing those modies, I could conclud that the best performer is Gradient Boosting with tuned Hyperparameters. 
