@@ -39,7 +39,11 @@ IsHoliday - whether the week is a special holiday week
 
 ## Methodogy
 
-### EDA
+### Exploratory Data Analysis
+### In this part, I analyzed the proportion of data in each store type (A,B,C), and the average weekly sales, average monthly sales, average department sales per year and the relationship between size of store and sales, the relationship between temperature and sales, the relationship between fuel price and sales, the relationship between CPI and Sales, the relationship bettween unemployment and Sales. 
+Using Correlation Matrix to check conform the inferences we have concluded from the above EDA study.
+
+
 ### Feature Enginerring
 ### Visualizing Correlations
 ### Encoding Store Column
