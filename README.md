@@ -5,7 +5,7 @@
  
  
 ## Introduction
-Modeling retail data based on the historical sales data to predict stores sales, it is a very important for WalMart's strategic decisions accurate data will ensure that stock replenishment is at par with future demand.
+Modeling retail data based on historical sales data to predict store sales is very important for Walmart's strategic decision-making process. Accurate data ensures that stock replenishment is in line with future demand, which can solve issues related to marketing campaigns. Forecasting is often used to adjust ads and marketing campaigns, and it can influence the number of sales.
 
 ### stores.csv
 
@@ -36,6 +36,10 @@ MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is r
 CPI - the consumer price index
 Unemployment - the unemployment rate
 IsHoliday - whether the week is a special holiday week
+
+### Performance metric
+<img width="365" alt="Screen Shot 2023-03-12 at 7 17 28 PM" src="https://user-images.githubusercontent.com/59128675/224580051-ffe8ea20-a621-4e3e-a5fd-d5fa921a37f9.png">
+
 
 ## Methodogy
 
