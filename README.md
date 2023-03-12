@@ -40,13 +40,38 @@ IsHoliday - whether the week is a special holiday week
 ## Methodogy
 
 ### Exploratory Data Analysis
+
 In this part, I analyzed the proportion of data in each store type (A,B,C), and the average weekly sales, average monthly sales, average department sales per year and the relationship between size of store and sales, the relationship between temperature and sales, the relationship between fuel price and sales, the relationship between CPI and Sales, the relationship bettween unemployment and Sales. 
 Using Correlation Matrix to check conform the inferences we have concluded from the above EDA study.
 
 
-### Feature Enginerring
-### Visualizing Correlations
-### Encoding Store Column
+### Data Preparation 
 
+According to the EDA and Coorelation study, dropped the columns with relationship with the target column. Training and created the training, validation datasets.
+
+### Machine Learning
+
+#### Linear Regression
+
+* WMAE for Training set: 14776.36
+* WMAE for Validation set: 14884.37
+
+#### Decision Tree
+
+* WMAE for Training set: 0.0
+* WMAE for Validation set: 1938.54
+
+#### Random Forest
+
+* WMAE for Training set: 569.99
+* WMAE for Validation set: 1571.46
+
+
+#### Gradient Bopsting Machine
+
+* WMAE for Training set: 16.66
+* WMAE for Validation set: 1339.29
 
 ## Results
+
+After comparing those modies, I could conclud that the best performer is Gradient Boosting with tuned Hyperparameters.
