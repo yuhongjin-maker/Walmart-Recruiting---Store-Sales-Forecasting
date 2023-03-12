@@ -78,4 +78,4 @@ According to the EDA and Coorelation study, dropped the columns with relationshi
 
 ## Results
 
-After comparing those modies, I could conclud that the best performer is Gradient Boosting with tuned Hyperparameters. 
+After comparing those models, I can conclude that the best performer is Gradient Boosting with tuned hyperparameters. In a word, store sales forecasting is a critical component of successful retail operations, and retailers should invest in the tools and resources necessary to do it effectively.
