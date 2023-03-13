@@ -45,7 +45,21 @@ IsHoliday - whether the week is a special holiday week
 
 ### Exploratory Data Analysis
 
-In this part, I analyzed the proportion of data in each store type (A,B,C), and the average weekly sales, average monthly sales, average department sales per year and the relationship between size of store and sales, the relationship between temperature and sales, the relationship between fuel price and sales, the relationship between CPI and Sales, the relationship bettween unemployment and Sales. 
+In this part, I analyzed the proportion of data in each store type (A,B,C), 
+<img width="422" alt="Screen Shot 2023-03-12 at 8 04 42 PM" src="https://user-images.githubusercontent.com/59128675/224582336-d97cad3a-ad74-4ff5-8956-a1f4a20267a5.png">
+
+and the average weekly sales, average monthly sales per year 
+<img width="549" alt="Screen Shot 2023-03-12 at 8 05 39 PM" src="https://user-images.githubusercontent.com/59128675/224582388-ad85845f-537d-4c50-9fb3-bd4388261998.png">
+<img width="522" alt="Screen Shot 2023-03-12 at 8 05 59 PM" src="https://user-images.githubusercontent.com/59128675/224582411-0f995c94-9db9-48e8-a3a8-682edd0c5770.png">
+
+and the relationship between size of store and sales, the relationship between temperature and sales, the relationship between fuel price and sales, the relationship between CPI and Sales, the relationship bettween unemployment and Sales. 
+<img width="521" alt="Screen Shot 2023-03-12 at 8 07 30 PM" src="https://user-images.githubusercontent.com/59128675/224582544-b8e38af6-8a2d-4fda-8266-3a1c25003cb7.png">
+<img width="510" alt="Screen Shot 2023-03-12 at 8 08 01 PM" src="https://user-images.githubusercontent.com/59128675/224582573-afe4e02c-1c20-4811-8b54-106c60a2bff9.png">
+<img width="487" alt="Screen Shot 2023-03-12 at 8 08 16 PM" src="https://user-images.githubusercontent.com/59128675/224582586-0c21e291-2a12-4d4c-9e66-afa6a28adcba.png">
+<img width="496" alt="Screen Shot 2023-03-12 at 8 08 36 PM" src="https://user-images.githubusercontent.com/59128675/224582601-560233a4-a426-4de3-8641-c4003803fa5d.png">
+<img width="495" alt="Screen Shot 2023-03-12 at 8 08 47 PM" src="https://user-images.githubusercontent.com/59128675/224582613-7a787bea-e8a1-4c56-94b5-8c807163d7c9.png">
+
+
 Using Correlation Matrix to check conform the inferences we have concluded from the above EDA study.
 <img width="554" alt="Screen Shot 2023-03-12 at 8 03 13 PM" src="https://user-images.githubusercontent.com/59128675/224582263-bbbe7ad6-e1e4-49ef-ae39-9dbf9437d663.png">
 
