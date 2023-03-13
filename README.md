@@ -47,6 +47,7 @@ IsHoliday - whether the week is a special holiday week
 
 In this part, I analyzed the proportion of data in each store type (A,B,C), and the average weekly sales, average monthly sales, average department sales per year and the relationship between size of store and sales, the relationship between temperature and sales, the relationship between fuel price and sales, the relationship between CPI and Sales, the relationship bettween unemployment and Sales. 
 Using Correlation Matrix to check conform the inferences we have concluded from the above EDA study.
+<img width="554" alt="Screen Shot 2023-03-12 at 8 03 13 PM" src="https://user-images.githubusercontent.com/59128675/224582263-bbbe7ad6-e1e4-49ef-ae39-9dbf9437d663.png">
 
 
 ### Data Preparation 
